@@ -1,3 +1,8 @@
+#Japinder Sandhu
+#
+# Pascals triangle in command line
+#
+
 #gets user input making sure it isnt a floating point number
 try:
 
